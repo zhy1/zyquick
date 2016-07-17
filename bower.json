@@ -1,0 +1,21 @@
+{
+  "name": "ngquick",
+  "version": "1.0.1",
+  "description": "ngquick utils library using for angular.js",
+  "main": "dist/ngquick.js",
+  "authors": "zy",
+  "license": "MIT",
+  "keywords": [
+    "angularjs"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "ngquick",
+  "version": "1.0.1",
+  "description": "ngquick utils library using for angular.js",
+  "main": "dist/ngquick.js",
+  "scripts": {
+    "test": "calc"
+  },
+  "keywords": [
+    "angularjs"
+  ],
+  "author": "zy",
+  "license": "MIT"
+}
