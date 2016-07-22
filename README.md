@@ -47,8 +47,6 @@ git remote add origin [url]
 
 > git remote add origin http://admin@172.27.102.119/zyquick.git
 
-//:8080/gitblit-1.8.0
-
 > git push -u origin master
 
 > bower register zyquick git://172.27.102.119/zyquick.git
