@@ -41,9 +41,15 @@ git remote origin set-url [url]
 git remote rm origin
 git remote add origin [url]
 
+> git remote rm origin
 
+> git remote add origin  https://github.com/zhy1/zyquick.git
 
-- bower register ngtables git://172.27.102.119/ngtables
+> git remote add origin http://admin@172.27.102.119:8080/gitblit-1.8.0/r/zyquick.git
+
+> git push -u origin master
+
+> bower register zyquick git://172.27.102.119/zyquick.git
 
 
 ```

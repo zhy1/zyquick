@@ -1,5 +1,5 @@
 {
   "directory": "../lib",
-//  "registry": "http://172.27.102.119:5100",
+  "registry": "http://172.27.102.119:5100",
   "timeout": 300000
 }
