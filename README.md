@@ -7,55 +7,39 @@
 # explain
 
 - validation
+> commit before
 
 - pollingService
+> q
 
 - tables
+> page show http response
 
 - paging
+> help tables
 
 - search
+> tables helper
 
 - forms
+> load data commit data
 
 - submit
-
-- polling
-
-- startPolling
-
-- dynamicPart
+> forms helper
 
 
 - bower register zyquick https://github.com/zhy1/zyquick.git
 
 
+# change git remote repository
+1.changed.
 
+git remote origin set-url [url]
 
+2.add before rm
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+git remote rm origin
+git remote add origin [url]
 
 
 
