@@ -52,6 +52,9 @@ git remote add origin [url]
 > bower register zyquick git://172.27.102.119/zyquick.git
 
 
+# angular-module name is not zy quick
+
+
 ```
 
   "dependencies": {
