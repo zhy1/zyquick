@@ -1,8 +1,8 @@
 module.exports = {
     entry: [
-        './src/directive/ngquick.js'
+        './src/directive/zyquick.js'
     ],
     output: {
-        filename: './dist/ngquick.js'
+        filename: './dist/zyquick.js'
     }
 };
