@@ -4,7 +4,7 @@
   "description": "ngquick utils library using for angular.js",
   "main": "dist/ngquick.js",
   "scripts": {
-    "test": "calc"
+    "w": "webpack"
   },
   "keywords": [
     "angularjs"
