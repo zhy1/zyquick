@@ -1,6 +1,6 @@
 module.exports = {
     entry: [
-        './src/directive/zyquick.js'
+        './dist/zyquick.js'
     ],
     output: {
         filename: './dist/zyquick.js'

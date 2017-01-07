@@ -45,11 +45,11 @@ git remote add origin [url]
 
 > git remote add origin  https://github.com/zhy1/zyquick.git
 
-> git remote add origin http://admin@ /zyquick.git
+> git remote add origin http://admin@172.27.102.119:8080/gitblit-1.8.0/r/zyquick.git
 
 > git push -u origin master
 
-> bower register zyquick git:// /zyquick.git
+> bower register zyquick git://172.27.102.119/zyquick.git
 
 
 # angular-module name is not zy quick

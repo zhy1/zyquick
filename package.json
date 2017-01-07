@@ -4,11 +4,17 @@
   "description": "zyquick utils library using for angular.js",
   "main": "dist/zyquick.js",
   "scripts": {
-    "w": "webpack"
+    "w": "webpack -p"
   },
   "keywords": [
     "angularjs"
   ],
   "author": "zy",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies":{
+    "webpack":"*"
+  },
+  "dependencies":[
+
+  ]
 }
